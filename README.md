@@ -11,7 +11,7 @@ Entry-Level Cyber Security Analyst | SOC & Incident Response
 
 Vulnerability Assessment & Network Scan: Nmap audit & remediation mapping.
 SOC Log Analysis Project: Python script parsing auth logs for brute-force attacks.
-📬 Connect with me: LinkedIn | Email
+📬 Connect with me: LinkedInhttps://www.linkedin.com/in/francis-o-gordian-a-718b04376 | Email SurfGordian@gmail.com
 <!--
 **francisGordian/FrancisGordian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
